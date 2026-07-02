@@ -61,11 +61,6 @@ Open to collaborating on ambitious projects. Reach out on **[Telegram](https://t
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DEV-BR0&show_icons=true&theme=radical&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-BR0&layout=compact&theme=radical&hide_border=true"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=DEV-BR0&theme=radical&hide_border=true"/>
 
 </div>
