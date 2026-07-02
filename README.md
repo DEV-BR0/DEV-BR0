@@ -61,12 +61,12 @@ Open to collaborating on ambitious projects. Reach out on **[Telegram](https://t
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DEV-BR0&show_icons=true&theme=radical&hide_border=true&bg_color=0F0F0F&title_color=6366F1&icon_color=6366F1"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-BR0&layout=compact&theme=radical&hide_border=true&bg_color=0F0F0F&title_color=6366F1"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DEV-BR0&show_icons=true&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-BR0&layout=compact&theme=radical&hide_border=true"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=DEV-BR0&theme=radical&hide_border=true&background=0F0F0F&ring=6366F1&fire=6366F1&currStreakLabel=6366F1"/>
+<img src="https://streak-stats.demolab.com/?user=DEV-BR0&theme=radical&hide_border=true"/>
 
 </div>
 
