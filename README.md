@@ -1,42 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Salom,%20Men%20Lazizbek%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20she/her&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Hi,%20I'm%20Lazizbek%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20she/her&descAlignY=52&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=React.js+%2B+Next.js+bilan+ishlayman;Svelte+%2B+SvelteKit+ekotizimida+yashayman;Node.js+%2B+Express+backend+quraman;GSAP+bilan+kodni+jonlantiraman;TypeScript+bilan+ishonchli+kod+yozaman" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=I+build+with+React.js+%2B+Next.js;I+live+in+the+Svelte+%2B+SvelteKit+ecosystem;I+craft+backends+with+Node.js+%2B+Express;I+bring+UI+to+life+with+GSAP;I+write+reliable+code+with+TypeScript" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://t.me/DEV_BR0">
   <img src="https://img.shields.io/badge/Telegram-@DEV__BR0-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=DEV-BR0&style=for-the-badge&color=8B5CF6&label=PROFIL+KO%27RILDI" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=DEV-BR0&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
 
 <br/>
 
-## 🧠 Men haqimda
+## 🧠 About Me
 
 ```javascript
 const lazizbek = {
     role: "Full-Stack Developer",
     location: "🇺🇿 Uzbekistan",
-    focus: "Zamonaviy va tez web-ilovalar yaratish",
-    currentlyLearning: "Har kuni yangi narsa",
-    funFact: "Kod yozish — bu muammoni san'atga aylantirish",
+    focus: "Building fast, modern web applications",
+    currentlyLearning: "Something new every day",
+    funFact: "Turning problems into art, one line of code at a time",
     contact: "@DEV_BR0"
 };
 ```
 
-- 🔭 Hozirda **Full-Stack** loyihalar ustida ishlayapman
-- 🌱 Doimiy o'rganish va rivojlanish — mening tamoyilim
-- 🤝 Qiziqarli loyihalarda hamkorlikka ochiqman
-- ⚡ Tez, chiroyli va animatsiyali interfeyslar yarataman
-- 📫 Bog'lanish uchun: **[@DEV_BR0](https://t.me/DEV_BR0)**
+- 🔭 Currently working on **Full-Stack** projects
+- 🌱 Constant learning and growth — that's my principle
+- 🤝 Open to collaborating on interesting projects
+- ⚡ I build fast, clean, and animated interfaces
+- 📫 Reach me at: **[@DEV_BR0](https://t.me/DEV_BR0)**
 
 <br/>
 
-## 🛠️ Texnologik stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -51,17 +51,17 @@ const lazizbek = {
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
-### Til
+### Languages
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-### Dizayn & Animatsiya
+### Styling & Animation
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
 
-### Vositalar
+### Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -71,7 +71,7 @@ const lazizbek = {
 
 <br/>
 
-## 📊 GitHub statistikam
+## 📊 GitHub Stats
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=DEV-BR0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -88,16 +88,8 @@ const lazizbek = {
 
 <br/>
 
-## 🏆 Yutuqlar
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DEV-BR0&theme=algolia&no-frame=true&row=1&column=6"/>
-</div>
-
-<br/>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer"/>
 
-<i>⭐ Agar loyihalarim yoqsa, star bosishni unutmang!</i>
+<i>⭐ If you like my work, consider giving my projects a star!</i>
 </div>
