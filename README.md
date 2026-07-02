@@ -2,7 +2,7 @@
 
 <br/>
 
-# LAZIZBEK
+# DEV BRO
 
 ### Full-Stack Developer
 
@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-@DEV__BR0-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/DEV_BR0)
+[![Telegram](https://img.shields.io/badge/Telegram-DEV%20BRO-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/DEV_BR0)
 ![Profile Views](https://komarev.com/ghpvc/?username=DEV-BR0&style=flat-square&color=6366F1&label=VIEWS)
 
 <br/>
@@ -25,7 +25,7 @@
 
 ## About
 
-I'm a Full-Stack Developer focused on building fast, clean, and well-crafted web applications. I work across the entire stack — from animated, responsive interfaces to reliable backend systems.
+I'm **DEV BRO**, a Full-Stack Developer focused on building fast, clean, and well-crafted web applications. I work across the entire stack — from animated, responsive interfaces to reliable backend systems.
 
 I'm currently building projects with **React** and **Next.js**, and exploring the **Svelte / SvelteKit** ecosystem. I care about writing clean code, thoughtful design, and constant learning.
 
