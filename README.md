@@ -113,29 +113,15 @@ If a card still doesn't render, wait a few minutes for the cache to refresh, or 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:0F0F0F&height=3&width=100%25" width="100%"/>
 
-## 🎭 A Day in the Life of a Developer
+## 🏆 Trophies
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DEV-BR0/DEV-BR0/main/dev-day-emotions.svg" width="100%" alt="a developer's daily emotional cycle, animated"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DEV-BR0&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub trophies"/>
 
-<sub>An original, self-animating timeline — motivation → coffee → flow → bug → frustration → debugging → breakthrough → deploy → sleep — with a terminal-style frame, live progress bar, and glowing mood indicator. Pure SVG + SMIL, zero JavaScript, loops every 18 seconds, never rate-limited.</sub>
+<sub>Live achievement badges — commits, stars, followers, pull requests, issues, and more — pulled and rendered automatically, always up to date. Zero setup, nothing to break.</sub>
 
 </div>
-
-<details>
-<summary><b>⚙️ One-time setup (30 seconds, no GitHub Action needed)</b></summary>
-<br/>
-
-This is a single static file with the animation built in — unlike the stats/streak cards above, it doesn't depend on any third-party server, so it can never go down or hit a rate limit.
-
-1. Download `dev-day-emotions.svg` (provided alongside this README) and commit it to the **root** of your `DEV-BR0/DEV-BR0` repository, on the `main` branch.
-2. That's it. The `<img>` tag above already points to `raw.githubusercontent.com/DEV-BR0/DEV-BR0/main/dev-day-emotions.svg`, so it starts animating the moment the file exists in the repo.
-3. To edit the stages, wording, colors, or timing later — it's plain text/SVG, just open it in any editor and change the text or `<animate>` values directly.
-
-> ⚠️ Note: GitHub's Markdown renderer does not render inline `data:` URI images for security reasons — an SVG (or any image) used in a README must be an actual file served over `https://`, not embedded as base64 text. This is the same reason the snake and stats cards above are separate files too.
-
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:6366F1,100:0F0F0F&height=150&section=footer" width="100%"/>
 
