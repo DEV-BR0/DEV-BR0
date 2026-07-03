@@ -15,11 +15,21 @@
 
 ## 👋 About
 
-I'm **DEV BRO** — a Full-Stack Developer who turns ideas into fast, animated, and reliable web applications. I work across the entire stack, from motion-rich interfaces to solid backend systems.
+I'm **DEV BRO** — a Full-Stack Developer who turns ideas into fast, animated, and reliable web applications, working across the entire stack from motion-rich interfaces to solid backend systems.
 
-I build with **React**, **Svelte / SvelteKit**, **Redux**, and **Node.js**, connect everything through **REST API**, animate every interface with **GSAP** and **AOS**, and build Telegram bots with **node-telegram-bot-api** — all on top of solid, semantic **HTML5**.
+**🔧 What I build with:**
+- **Frontend:** React, Svelte / SvelteKit, Redux, HTML5
+- **Backend:** Node.js, REST API
+- **Motion:** GSAP, AOS
+- **Bots:** Telegram bots with node-telegram-bot-api
 
-Right now I'm actively leveling up **TypeScript / TSX**, **Next.js**, **Preact.js**, **Vue.js**, **Electron.js**, **Express.js**, **Python (basics)**, **Flask**, **telebot (pyTelegramBotAPI)**, **React Native**, **UI/UX Design**, and learning **Korean (한국어)** — see [Currently Learning](#-currently-learning) below.
+**📚 What I'm leveling up right now:**
+- **Languages & frameworks:** TypeScript / TSX, Next.js, Preact.js, Vue.js, Python (basics)
+- **Backend & desktop:** Express.js, Flask, Electron.js
+- **Mobile & bots:** React Native, telebot (pyTelegramBotAPI)
+- **Design & languages:** UI/UX Design, Korean (한국어)
+
+*Full breakdown with icons in the [Currently Learning](#-currently-learning) section below.*
 
 ```
 > npm run learn --forever
