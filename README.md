@@ -113,13 +113,17 @@ If a card still doesn't render, wait a few minutes for the cache to refresh, or 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:0F0F0F&height=3&width=100%25" width="100%"/>
 
-## 🏆 Trophies
+## 🎯 Current Focus
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DEV-BR0&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub trophies"/>
-
-<sub>Live achievement badges — commits, stars, followers, pull requests, issues, and more — pulled and rendered automatically, always up to date. Zero setup, nothing to break.</sub>
+| | |
+|:---|:---|
+| 🔭 **Currently building** | AI-assisted full-stack web apps & Telegram bots |
+| 🌱 **Currently learning** | Next.js, TypeScript, React Native, Korean (한국어) |
+| 💬 **Ask me about** | React, Svelte/SvelteKit, Node.js, GSAP animations |
+| ⚡ **How I work** | I pair with AI tools throughout my workflow to ship faster without cutting corners |
+| 📫 **Reach me** | [Telegram — @DEV_BR0](https://t.me/DEV_BR0) |
 
 </div>
 
