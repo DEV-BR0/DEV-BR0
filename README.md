@@ -17,15 +17,15 @@
 
 <br/>
 
-Men **DEV BRO** — g'oyalarni tez, animatsiyali va ishonchli veb-ilovalarga aylantiruvchi Full-Stack Dasturchiman. Men frontenddan backendgacha butun stack bo'ylab ishlayman — harakatga to'la interfeyslardan tortib, mustahkam server arxitekturasigacha.
+I'm **DEV BRO** — a Full-Stack Developer who turns ideas into fast, animated, and reliable web applications. I work across the entire stack, from motion-rich interfaces to solid backend systems.
 
-Hozirda **React** va **Next.js** bilan qurmoqdaman, **Svelte / SvelteKit** ekotizimida yashayman, holatni **Redux** bilan boshqaraman, ma'lumotlarni **REST API** orqali uzataman va har bir interfeysni **GSAP** hamda **AOS** yordamida jonlantiraman — barchasi mustahkam **HTML5** semantik asosida.
+Currently building with **React** and **Next.js**, living inside the **Svelte / SvelteKit** ecosystem, managing state with **Redux**, connecting everything through **REST API**, and bringing every UI to life with **GSAP** and **AOS** — all on top of solid, semantic **HTML5**.
 
 ```
 > npm run learn --forever
 ```
 
-Ambitsiyali loyihalarda hamkorlik qilishga ochiqman. Menga **[Telegram](https://t.me/DEV_BR0)** orqali murojaat qiling.
+Open to collaborating on ambitious projects. Reach out on **[Telegram](https://t.me/DEV_BR0)**.
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0F0F0F&height=3&width=100%25" width="100%"/>
@@ -82,7 +82,7 @@ Ambitsiyali loyihalarda hamkorlik qilishga ochiqman. Menga **[Telegram](https://
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/DEV-BR0/DEV-BR0/output/github-contribution-grid-snake.svg">
 </picture>
 
-<sub>⚙️ Bu animatsiya bir martalik GitHub Actions sozlamasini talab qiladi — quyidagi ko'rsatmalarga qarang.</sub>
+<sub>⚙️ This animation requires a one-time GitHub Actions setup — see instructions below.</sub>
 
 </div>
 
@@ -90,5 +90,5 @@ Ambitsiyali loyihalarda hamkorlik qilishga ochiqman. Menga **[Telegram](https://
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:6366F1,100:0F0F0F&height=150&section=footer" width="100%"/>
 
 <div align="center">
-<b>⭐ Ishim yoqsa, repolarimga star qo'yishni unutmang.</b>
+<b>⭐ If you like my work, feel free to star my repositories.</b>
 </div>
