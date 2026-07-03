@@ -78,6 +78,73 @@ Open to collaborating on ambitious projects. Reach out on **[Telegram](https://t
 
 </div>
 
+## 🚀 Featured Projects
+
+<sub>Swap in your own repos below — replace the title, description, tags, and link for each card.</sub>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Project One
+A short, punchy sentence on what it does and the problem it solves for the user.
+
+`React` `Node.js` `MongoDB`
+
+[View Repository →](https://github.com/DEV-BR0?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Project Two
+A short, punchy sentence on what it does and the problem it solves for the user.
+
+`Svelte` `Express` `GSAP`
+
+[View Repository →](https://github.com/DEV-BR0?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Project Three
+A short, punchy sentence on what it does and the problem it solves for the user.
+
+`Next.js` `TypeScript` `REST API`
+
+[View Repository →](https://github.com/DEV-BR0?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Project Four
+A short, punchy sentence on what it does and the problem it solves for the user.
+
+`Node.js` `Telegram Bot API`
+
+[View Repository →](https://github.com/DEV-BR0?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:0F0F0F&height=3&width=100%25" width="100%"/>
+
+## 💪 Skills Proficiency
+
+<div align="center">
+
+| Frontend | Level | Backend | Level |
+|:---|:---:|:---|:---:|
+| React | ⭐⭐⭐⭐⭐ | Node.js | ⭐⭐⭐⭐⭐ |
+| Svelte / SvelteKit | ⭐⭐⭐⭐☆ | REST API design | ⭐⭐⭐⭐⭐ |
+| Redux | ⭐⭐⭐⭐☆ | Express.js | ⭐⭐⭐☆☆ |
+| TypeScript | ⭐⭐⭐☆☆ | Flask | ⭐⭐☆☆☆ |
+| GSAP / AOS | ⭐⭐⭐⭐⭐ | Telegram Bot API | ⭐⭐⭐⭐☆ |
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:0F0F0F&height=3&width=100%25" width="100%"/>
 
 ## 📊 GitHub Stats
@@ -127,8 +194,21 @@ If a card still doesn't render, wait a few minutes for the cache to refresh, or 
 
 </div>
 
+## 🤝 Connect
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-Message%20me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DEV_BR0)
+[![GitHub](https://img.shields.io/badge/GitHub-DEV--BR0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEV-BR0)
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:6366F1,100:0F0F0F&height=150&section=footer" width="100%"/>
 
 <div align="center">
-<b>⭐ If you like my work, feel free to star my repositories.</b>
+
+**⭐ If you like my work, feel free to star my repositories.**
+
+<sub>Thanks for stopping by — always happy to talk shop about React, Svelte, or anything AI-assisted dev.</sub>
+
 </div>
