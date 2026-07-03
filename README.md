@@ -19,7 +19,7 @@
 
 I'm **DEV BRO** — a Full-Stack Developer who turns ideas into fast, animated, and reliable web applications. I work across the entire stack, from motion-rich interfaces to solid backend systems.
 
-Currently building with **React** and **Next.js**, living inside the **Svelte / SvelteKit** ecosystem, managing state with **Redux**, connecting everything through **REST API**, shipping cross-platform desktop apps with **Electron.js**, and bringing every UI to life with **GSAP** and **AOS** — all on top of solid, semantic **HTML5**.
+Currently building with **React** and **Next.js**, living inside the **Svelte / SvelteKit** ecosystem, managing state with **Redux**, connecting everything through **REST API**, shipping cross-platform desktop apps with **Electron.js**, building Telegram bots with **node-telegram-bot-api**, dabbling in **Python** for scripting and automation, and bringing every UI to life with **GSAP** and **AOS** — all on top of solid, semantic **HTML5**.
 
 ```
 > npm run learn --forever
@@ -37,13 +37,14 @@ Open to collaborating on ambitious projects. Reach out on **[Telegram](https://t
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,redux,electron,nodejs,express,tailwind,sass,git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,redux,electron,nodejs,express,python,tailwind,sass,git,github,vscode,figma&theme=dark" />
 
 <br/><br/>
 
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 ![AOS](https://img.shields.io/badge/AOS-Animate%20On%20Scroll-6366F1?style=for-the-badge&logo=javascript&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-6366F1?style=for-the-badge&logo=fastapi&logoColor=white)
+![node-telegram-bot-api](https://img.shields.io/badge/node--telegram--bot--api-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 </div>
 
