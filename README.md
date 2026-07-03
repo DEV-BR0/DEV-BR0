@@ -49,8 +49,7 @@ Open to collaborating on ambitious projects. Reach out on **[Telegram](https://t
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0F0F0F&height=3&width=100%25" width="100%"/>
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:F59E0B,100:0F0F0F&height=120&section=header&animation=fadeIn" width="100%"/>
 
 ## CURRENTLY LEARNING
 
@@ -75,6 +74,9 @@ Open to collaborating on ambitious projects. Reach out on **[Telegram](https://t
 ![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-FF61F6?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:F59E0B,100:0F0F0F&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0F0F0F&height=3&width=100%25" width="100%"/>
