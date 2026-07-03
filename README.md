@@ -58,6 +58,14 @@ Open to collaborating on ambitious projects. Reach out on **[Telegram](https://t
 
 <div align="center">
 
+![Status](https://img.shields.io/badge/status-always%20learning-F59E0B?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2200&pause=700&color=F59E0B&center=true&vCenter=true&width=600&lines=%F0%9F%8C%B1+TypeScript+%2F+TSX;%F0%9F%8C%B1+Next.js;%F0%9F%8C%B1+Preact.js;%F0%9F%8C%B1+Vue.js;%F0%9F%8C%B1+Electron.js;%F0%9F%8C%B1+Express.js;%F0%9F%8C%B1+Python+(basics);%F0%9F%8C%B1+Flask;%F0%9F%8C%B1+telebot+(pyTelegramBotAPI);%F0%9F%8C%B1+React+Native;%F0%9F%8C%B1+UI%2FUX+Design" alt="Currently Learning Typing SVG" />
+
+<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=ts,nextjs,preact,vuejs,electron,express,python,flask&theme=dark" />
 
 <br/><br/>
