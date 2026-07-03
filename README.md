@@ -1,214 +1,224 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,35:6366F1,70:8B5CF6,100:0F0F0F&height=280&section=header&text=DEV%20BRO&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20fast%2C%20animated%2C%20AI-assisted%20web%20apps&descAlignY=55&descSize=18&descColor=C7C7C7" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0D1F12,100:000000&height=4&width=100%25" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=React+%2B+Next.js+Developer;Svelte+%2B+SvelteKit+Enthusiast;Node.js+%2B+Express+Backend;REST+API+%26+Redux+Architect;Animating+the+Web+with+GSAP+%26+AOS;Type-Safe+with+TypeScript;Shipping+faster+with+AI-assisted+dev" alt="Typing SVG" />
+<pre>
+██████╗ ███████╗██╗   ██╗
+██╔══██╗██╔════╝██║   ██║
+██║  ██║█████╗  ██║   ██║
+██║  ██║██╔══╝  ╚██╗ ██╔╝
+██████╔╝███████╗ ╚████╔╝ 
+╚═════╝ ╚══════╝  ╚═══╝  
+██████╗ ██████╗  ██████╗ 
+██╔══██╗██╔══██╗██╔═████╗
+██████╔╝██████╔╝██║██╔██║
+██╔══██╗██╔══██╗████╔╝██║
+██████╔╝██║  ██║╚██████╔╝
+╚═════╝ ╚═╝  ╚═╝ ╚═════╝ 
+</pre>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=800&lines=root%40dev-bro%3A~%24+whoami;%3E+Full-Stack+Developer;root%40dev-bro%3A~%24+cat+stack.txt;%3E+React+%2F+Svelte+%2F+Node.js+%2F+GSAP;root%40dev-bro%3A~%24+./build.sh+--fast+--animated;%3E+Build+successful+%E2%9C%93" alt="terminal typing animation"/>
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-DEV%20BRO-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DEV_BR0)
-![Profile Views](https://komarev.com/ghpvc/?username=DEV-BR0&style=for-the-badge&color=8B5CF6&label=VIEWS)
-![Open to work](https://img.shields.io/badge/OPEN%20TO-COLLAB-10B981?style=for-the-badge&logo=checkmarx&logoColor=white)
+[![Telegram](https://img.shields.io/badge/telegram-DEV__BR0-00FF41?style=flat-square&logo=telegram&logoColor=000000&labelColor=000000)](https://t.me/DEV_BR0)
+[![GitHub](https://img.shields.io/badge/github-DEV--BR0-00FF41?style=flat-square&logo=github&logoColor=000000&labelColor=000000)](https://github.com/DEV-BR0)
+![Views](https://komarev.com/ghpvc/?username=DEV-BR0&style=flat-square&color=00FF41&labelColor=000000&label=views)
+![Status](https://img.shields.io/badge/status-online-00FF41?style=flat-square&labelColor=000000)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0D1F12,100:000000&height=4&width=100%25" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:0F0F0F&height=3&width=100%25" width="100%"/>
+<br/>
 
-## 👋 About
-
-I'm **DEV BRO** — a Full-Stack Developer who turns ideas into fast, animated, and reliable web applications, working across the entire stack from motion-rich interfaces to solid backend systems.
-
-**🔧 What I build with:**
-- **Frontend:** React, Svelte / SvelteKit, Redux, HTML5
-- **Backend:** Node.js, REST API
-- **Motion:** GSAP, AOS
-- **Bots:** Telegram bots with node-telegram-bot-api
-- **AI-assisted development:** I also build full websites, apps, and other projects leveraging AI tools to move faster and ship higher-quality work
-
-**📚 What I'm leveling up right now:**
-- **Languages & frameworks:** TypeScript / TSX, Next.js, Preact.js, Vue.js, Python (basics)
-- **Backend & desktop:** Express.js, Flask, Electron.js
-- **Mobile & bots:** React Native, telebot (pyTelegramBotAPI)
-- **Design & languages:** UI/UX Design, Korean (한국어)
-
-*Full breakdown with icons in the [Currently Learning](#-currently-learning) section below.*
-
-```
-> npm run learn --forever
+```bash
+root@dev-bro:~$ cat about.md
 ```
 
-Open to collaborating on ambitious projects. Reach out on **[Telegram](https://t.me/DEV_BR0)**.
+> I turn ideas into fast, animated, reliable web applications — full-stack,
+> from motion-rich interfaces down to the backend systems that power them.
+> I also lean on AI tools throughout my workflow to ship faster without
+> cutting corners.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:0F0F0F&height=3&width=100%25" width="100%"/>
+```bash
+root@dev-bro:~$ ls -la ./stack/frontend
+```
 
-## 🛠️ Tech Stack
+<div align="left">
+
+`react`&nbsp;&nbsp;`next.js`&nbsp;&nbsp;`svelte`&nbsp;&nbsp;`sveltekit`&nbsp;&nbsp;`redux`&nbsp;&nbsp;`html5`&nbsp;&nbsp;`typescript`&nbsp;&nbsp;`gsap`&nbsp;&nbsp;`aos`
+
+</div>
+
+```bash
+root@dev-bro:~$ ls -la ./stack/backend
+```
+
+<div align="left">
+
+`node.js`&nbsp;&nbsp;`rest-api`&nbsp;&nbsp;`express.js`&nbsp;&nbsp;`flask`&nbsp;&nbsp;`node-telegram-bot-api`&nbsp;&nbsp;`telebot`
+
+</div>
+
+```bash
+root@dev-bro:~$ tail -f learning.log
+```
+
+<div align="left">
+
+`preact.js`&nbsp;&nbsp;`vue.js`&nbsp;&nbsp;`python`&nbsp;&nbsp;`electron.js`&nbsp;&nbsp;`react-native`&nbsp;&nbsp;`ui/ux-design`&nbsp;&nbsp;`한국어`
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0D1F12,100:000000&height=2&width=100%25" width="100%"/>
+
+## `> tech_stack --visual`
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,svelte,redux,nodejs,tailwind,sass,git,github,vscode,figma&theme=dark" alt="core tech stack icons"/>
 
-<br/><br/>
-
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![AOS](https://img.shields.io/badge/AOS-Animate%20On%20Scroll-6366F1?style=for-the-badge&logo=javascript&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-6366F1?style=for-the-badge&logo=fastapi&logoColor=white)
-![node-telegram-bot-api](https://img.shields.io/badge/node--telegram--bot--api-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![AI-Powered Dev](https://img.shields.io/badge/AI--Powered%20Development-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:0F0F0F&height=3&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0D1F12,100:000000&height=2&width=100%25" width="100%"/>
 
-## 🌱 Currently Learning
-
-<div align="center">
-
-![Status](https://img.shields.io/badge/status-always%20learning-F59E0B?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=ts,nextjs,preact,vuejs,electron,express,python,flask&theme=dark" alt="currently learning icons"/>
-
-<br/><br/>
-
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![telebot](https://img.shields.io/badge/pyTelegramBotAPI-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-FF61F6?style=for-the-badge&logo=figma&logoColor=white)
-![Korean](https://img.shields.io/badge/Korean-%ED%95%9C%EA%B5%AD%EC%96%B4-0F0F0F?style=for-the-badge&logo=googletranslate&logoColor=white)
-
-</div>
-
-## 🚀 Featured Projects
-
-<sub>Swap in your own repos below — replace the title, description, tags, and link for each card.</sub>
+## `> ls ~/projects`
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 Project One
-A short, punchy sentence on what it does and the problem it solves for the user.
-
-`React` `Node.js` `MongoDB`
-
-[View Repository →](https://github.com/DEV-BR0?tab=repositories)
+```
+drwxr-xr-x  project-one/
+```
+A short, punchy sentence on what it does and the problem it solves.
+`react` `node.js` `mongodb`
+→ [open](https://github.com/DEV-BR0?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔹 Project Two
-A short, punchy sentence on what it does and the problem it solves for the user.
-
-`Svelte` `Express` `GSAP`
-
-[View Repository →](https://github.com/DEV-BR0?tab=repositories)
+```
+drwxr-xr-x  project-two/
+```
+A short, punchy sentence on what it does and the problem it solves.
+`svelte` `express` `gsap`
+→ [open](https://github.com/DEV-BR0?tab=repositories)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 Project Three
-A short, punchy sentence on what it does and the problem it solves for the user.
-
-`Next.js` `TypeScript` `REST API`
-
-[View Repository →](https://github.com/DEV-BR0?tab=repositories)
+```
+drwxr-xr-x  project-three/
+```
+A short, punchy sentence on what it does and the problem it solves.
+`next.js` `typescript` `rest-api`
+→ [open](https://github.com/DEV-BR0?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔹 Project Four
-A short, punchy sentence on what it does and the problem it solves for the user.
-
-`Node.js` `Telegram Bot API`
-
-[View Repository →](https://github.com/DEV-BR0?tab=repositories)
+```
+drwxr-xr-x  project-four/
+```
+A short, punchy sentence on what it does and the problem it solves.
+`node.js` `telegram-bot-api`
+→ [open](https://github.com/DEV-BR0?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:0F0F0F&height=3&width=100%25" width="100%"/>
+<sub>Replace each folder's name, description, tags, and link with your real repos.</sub>
 
-## 💪 Skills Proficiency
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0D1F12,100:000000&height=2&width=100%25" width="100%"/>
+
+## `> cat skills.dat`
+
+```
+React               ██████████████████░░  90%
+Node.js             ██████████████████░░  90%
+Svelte / SvelteKit  ████████████████░░░░  80%
+REST API design      ██████████████████░░  90%
+Redux                ████████████████░░░░  80%
+GSAP / AOS            ██████████████████░░  90%
+Express.js             ██████████████░░░░░░  70%
+TypeScript              ████████████░░░░░░░░  60%
+Flask                     ████████░░░░░░░░░░░░  40%
+Telegram Bot API           ████████████████░░░░  80%
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0D1F12,100:000000&height=2&width=100%25" width="100%"/>
+
+## `> curl api.github.com/stats`
 
 <div align="center">
 
-| Frontend | Level | Backend | Level |
-|:---|:---:|:---|:---:|
-| React | ⭐⭐⭐⭐⭐ | Node.js | ⭐⭐⭐⭐⭐ |
-| Svelte / SvelteKit | ⭐⭐⭐⭐☆ | REST API design | ⭐⭐⭐⭐⭐ |
-| Redux | ⭐⭐⭐⭐☆ | Express.js | ⭐⭐⭐☆☆ |
-| TypeScript | ⭐⭐⭐☆☆ | Flask | ⭐⭐☆☆☆ |
-| GSAP / AOS | ⭐⭐⭐⭐⭐ | Telegram Bot API | ⭐⭐⭐⭐☆ |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:0F0F0F&height=3&width=100%25" width="100%"/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=DEV-BR0&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub stats"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DEV-BR0&layout=compact&theme=radical&hide_border=true" width="35%" alt="top languages"/>
+<img src="https://github-stats-extended.vercel.app/api?username=DEV-BR0&show_icons=true&theme=merko&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="49%" alt="GitHub stats"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DEV-BR0&layout=compact&theme=merko&hide_border=true&bg_color=000000&title_color=00FF41&text_color=c9d1d9" width="35%" alt="top languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=DEV-BR0&theme=radical&hide_border=true" alt="GitHub streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=DEV-BR0&theme=merko&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub streak stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEV-BR0&theme=react-dark&hide_border=true&area=true&custom_title=Weekly%20Activity" width="97%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEV-BR0&theme=react-dark&hide_border=true&area=true&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&custom_title=weekly_activity.log" width="97%" alt="activity graph"/>
 
 </div>
 
 <details>
-<summary><b>⚙️ If a stats card doesn't load</b></summary>
+<summary><b>$ man stats-troubleshoot</b></summary>
 <br/>
 
 These cards are generated by third-party services and depend on their servers being up:
 
-- Stats & Top Languages run on `github-stats-extended.vercel.app`, a maintained, drop-in compatible fork of the original `github-readme-stats` (which frequently hits Vercel's free-tier rate limits and goes down).
+- Stats & Top Languages run on `github-stats-extended.vercel.app`, a maintained fork of `github-readme-stats` (the original frequently hits Vercel's free-tier rate limits).
 - Streak stats run on `streak-stats.demolab.com`.
 - Activity graph runs on `github-readme-activity-graph.vercel.app`.
 
-If a card still doesn't render, wait a few minutes for the cache to refresh, or self-host your own instance on Vercel for guaranteed uptime (see [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own), [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) and [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) docs).
+If a card doesn't render, wait a few minutes for cache to refresh, or self-host your own instance (see [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own), [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats), [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)).
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:0F0F0F&height=3&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0D1F12,100:000000&height=2&width=100%25" width="100%"/>
 
-## 🎯 Current Focus
+## `> cat status.json`
+
+```json
+{
+  "currently_building": "AI-assisted full-stack web apps & Telegram bots",
+  "currently_learning": ["Next.js", "TypeScript", "React Native", "한국어"],
+  "ask_me_about": ["React", "Svelte", "Node.js", "GSAP"],
+  "how_i_work": "pairing with AI tools to ship faster without cutting corners",
+  "status": "open_to_collab"
+}
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0D1F12,100:000000&height=2&width=100%25" width="100%"/>
+
+## `> ./contact.sh`
 
 <div align="center">
 
-| | |
-|:---|:---|
-| 🔭 **Currently building** | AI-assisted full-stack web apps & Telegram bots |
-| 🌱 **Currently learning** | Next.js, TypeScript, React Native, Korean (한국어) |
-| 💬 **Ask me about** | React, Svelte/SvelteKit, Node.js, GSAP animations |
-| ⚡ **How I work** | I pair with AI tools throughout my workflow to ship faster without cutting corners |
-| 📫 **Reach me** | [Telegram — @DEV_BR0](https://t.me/DEV_BR0) |
+[![Telegram](https://img.shields.io/badge/telegram-message%20me-00FF41?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=000000)](https://t.me/DEV_BR0)
+[![GitHub](https://img.shields.io/badge/github-follow-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/DEV-BR0)
 
 </div>
 
-## 🤝 Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0D1F12,100:000000&height=4&width=100%25" width="100%"/>
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-Message%20me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DEV_BR0)
-[![GitHub](https://img.shields.io/badge/GitHub-DEV--BR0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEV-BR0)
+```
+$ echo "⭐ star a repo if you like the work — see you in the terminal."
+```
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:6366F1,100:0F0F0F&height=150&section=footer" width="100%"/>
-
-<div align="center">
-
-**⭐ If you like my work, feel free to star my repositories.**
-
-<sub>Thanks for stopping by — always happy to talk shop about React, Svelte, or anything AI-assisted dev.</sub>
+<sub>process exited with code 0</sub>
 
 </div>
