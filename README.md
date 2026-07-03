@@ -113,17 +113,13 @@ If a card still doesn't render, wait a few minutes for the cache to refresh, or 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:0F0F0F&height=3&width=100%25" width="100%"/>
 
-## 🧊 3D Contribution Calendar
+## 🎭 A Day in the Life of a Developer
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DEV-BR0/DEV-BR0/output/profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DEV-BR0/DEV-BR0/output/profile-3d-contrib/profile-green-animate.svg">
-  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/DEV-BR0/DEV-BR0/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/DEV-BR0/DEV-BR0/main/dev-day-emotions.svg" width="100%" alt="a developer's daily emotional cycle, animated"/>
 
-<sub>An animated, rotating 3D bar chart of a full year of contributions — a bolder, more distinctive alternative to the classic snake.</sub>
+<sub>A custom, self-animating timeline — motivation → coffee → flow → bug → frustration → debugging → breakthrough → deploy → sleep, looping every 18 seconds. Fully original artwork, no third-party service, so it never breaks.</sub>
 
 </div>
 
@@ -131,41 +127,11 @@ If a card still doesn't render, wait a few minutes for the cache to refresh, or 
 <summary><b>⚙️ One-time setup for this animation</b></summary>
 <br/>
 
-1. In your profile repo (`DEV-BR0/DEV-BR0`), create `.github/workflows/profile-3d-contrib.yml`.
-2. Paste the following:
+This one is a plain static SVG file with built-in animation (no GitHub Action needed):
 
-```yaml
-name: Generate 3D Contribution Graph
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  push:
-    branches: [ main ]
-  workflow_dispatch:
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: DEV-BR0
-      - name: Commit & push
-        run: |
-          git config user.name github-actions
-          git config user.email actions@github.com
-          git add -f profile-3d-contrib/*.svg
-          git commit -m "Update 3D contribution graph" || exit 0
-          git push origin main:output --force
-```
-
-3. Commit — the Action will run automatically and generate several style variants (`profile-night-rainbow.svg`, `profile-green-animate.svg`, etc.) under `profile-3d-contrib/`, pushed to the `output` branch this README points to.
-4. Swap the filenames above for whichever palette you like best — options include `profile-night-rainbow`, `profile-south-korea`, `profile-north-pole`, and more (see the [project docs](https://github.com/yoshi389111/github-profile-3d-contrib)).
+1. Download `dev-day-emotions.svg` (shared below) and commit it to the root of your `DEV-BR0/DEV-BR0` repo, on the `main` branch.
+2. That's it — the `<img>` tag above already points to `raw.githubusercontent.com/DEV-BR0/DEV-BR0/main/dev-day-emotions.svg`, so it will start animating as soon as the file exists in the repo.
+3. Want to tweak the stages, colors, or timing? Everything is plain SVG/SMIL markup — open the file in a text editor and edit the `<text>`, emoji, or `<animate>` values directly.
 
 </details>
 
