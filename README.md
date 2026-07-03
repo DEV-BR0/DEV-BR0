@@ -19,7 +19,7 @@
 
 I'm **DEV BRO** — a Full-Stack Developer who turns ideas into fast, animated, and reliable web applications. I work across the entire stack, from motion-rich interfaces to solid backend systems.
 
-Currently building with **React** and **Next.js**, living inside the **Svelte / SvelteKit** ecosystem, managing state with **Redux**, connecting everything through **REST API**, and bringing every UI to life with **GSAP** and **AOS** — all on top of solid, semantic **HTML5**.
+Currently building with **React** and **Next.js**, living inside the **Svelte / SvelteKit** ecosystem, managing state with **Redux**, connecting everything through **REST API**, shipping cross-platform desktop apps with **Electron.js**, and bringing every UI to life with **GSAP** and **AOS** — all on top of solid, semantic **HTML5**.
 
 ```
 > npm run learn --forever
@@ -37,7 +37,7 @@ Open to collaborating on ambitious projects. Reach out on **[Telegram](https://t
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,redux,nodejs,express,tailwind,sass,git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,redux,electron,nodejs,express,tailwind,sass,git,github,vscode,figma&theme=dark" />
 
 <br/><br/>
 
