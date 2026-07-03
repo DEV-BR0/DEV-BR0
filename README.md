@@ -22,6 +22,7 @@ I'm **DEV BRO** — a Full-Stack Developer who turns ideas into fast, animated, 
 - **Backend:** Node.js, REST API
 - **Motion:** GSAP, AOS
 - **Bots:** Telegram bots with node-telegram-bot-api
+- **AI-assisted development:** I also build full websites, apps, and other projects leveraging AI tools to move faster and ship higher-quality work
 
 **📚 What I'm leveling up right now:**
 - **Languages & frameworks:** TypeScript / TSX, Next.js, Preact.js, Vue.js, Python (basics)
@@ -51,6 +52,7 @@ Open to collaborating on ambitious projects. Reach out on **[Telegram](https://t
 ![AOS](https://img.shields.io/badge/AOS-Animate%20On%20Scroll-6366F1?style=for-the-badge&logo=javascript&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-6366F1?style=for-the-badge&logo=fastapi&logoColor=white)
 ![node-telegram-bot-api](https://img.shields.io/badge/node--telegram--bot--api-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![AI-Powered Dev](https://img.shields.io/badge/AI--Powered%20Development-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
