@@ -19,7 +19,7 @@
 
 I'm **DEV BRO** — a Full-Stack Developer who turns ideas into fast, animated, and reliable web applications. I work across the entire stack, from motion-rich interfaces to solid backend systems.
 
-Currently building with **React** and **Next.js** (also exploring **Preact.js**), writing type-safe code with **TypeScript / TSX**, living inside the **Svelte / SvelteKit** ecosystem, managing state with **Redux**, connecting everything through **REST API**, powering backends with **Express.js**, shipping cross-platform desktop apps with **Electron.js**, building Telegram bots with **node-telegram-bot-api**, and currently learning **Python** and **Flask** for backend scripting. I bring every UI to life with **GSAP** and **AOS** — all on top of solid, semantic **HTML5**.
+Currently building with **React** and **Next.js** (also exploring **Preact.js**), writing type-safe code with **TypeScript / TSX**, living inside the **Svelte / SvelteKit** ecosystem, managing state with **Redux**, connecting everything through **REST API**, powering backends with **Express.js**, shipping cross-platform desktop apps with **Electron.js**, and building Telegram bots with **node-telegram-bot-api**. I bring every UI to life with **GSAP** and **AOS** — all on top of solid, semantic **HTML5**. Right now I'm also picking up **Python**, **Flask**, and **React Native** — see the "Currently Learning" section below.
 
 ```
 > npm run learn --forever
@@ -37,7 +37,7 @@ Open to collaborating on ambitious projects. Reach out on **[Telegram](https://t
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,preact,svelte,redux,electron,nodejs,express,flask,python,tailwind,sass,git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,preact,svelte,redux,electron,nodejs,express,tailwind,sass,git,github,vscode,figma&theme=dark" />
 
 <br/><br/>
 
@@ -45,6 +45,24 @@ Open to collaborating on ambitious projects. Reach out on **[Telegram](https://t
 ![AOS](https://img.shields.io/badge/AOS-Animate%20On%20Scroll-6366F1?style=for-the-badge&logo=javascript&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-6366F1?style=for-the-badge&logo=fastapi&logoColor=white)
 ![node-telegram-bot-api](https://img.shields.io/badge/node--telegram--bot--api-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
+</div>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0F0F0F&height=3&width=100%25" width="100%"/>
+<br/>
+
+## CURRENTLY LEARNING
+
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask&theme=dark" />
+
+<br/><br/>
+
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
