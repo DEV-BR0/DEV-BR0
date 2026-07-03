@@ -19,7 +19,7 @@
 
 I'm **DEV BRO** — a Full-Stack Developer who turns ideas into fast, animated, and reliable web applications. I work across the entire stack, from motion-rich interfaces to solid backend systems.
 
-I build with **React**, **Svelte / SvelteKit**, **Redux**, and **Node.js**, connect everything through **REST API**, animate every interface with **GSAP** and **AOS**, and build Telegram bots with **node-telegram-bot-api** — all on top of solid, semantic **HTML5**. Right now I'm actively leveling up **TypeScript / TSX**, **Next.js**, **Preact.js**, **Electron.js**, **Express.js**, **Python (basics)**, **Flask**, **telebot (pyTelegramBotAPI)**, and **React Native** — see the "Currently Learning" section below.
+I build with **React**, **Svelte / SvelteKit**, **Redux**, and **Node.js**, connect everything through **REST API**, animate every interface with **GSAP** and **AOS**, and build Telegram bots with **node-telegram-bot-api** — all on top of solid, semantic **HTML5**. Right now I'm actively leveling up **TypeScript / TSX**, **Next.js**, **Preact.js**, **Vue.js**, **Electron.js**, **Express.js**, **Python (basics)**, **Flask**, **telebot (pyTelegramBotAPI)**, **React Native**, and **UI/UX Design** — see the "Currently Learning" section below.
 
 ```
 > npm run learn --forever
@@ -58,12 +58,13 @@ Open to collaborating on ambitious projects. Reach out on **[Telegram](https://t
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,preact,electron,express,python,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,nextjs,preact,vuejs,electron,express,python,flask&theme=dark" />
 
 <br/><br/>
 
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![telebot](https://img.shields.io/badge/pyTelegramBotAPI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-FF61F6?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
