@@ -7,6 +7,7 @@
 <br/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-DEV%20BRO-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DEV_BR0)
+[![Codewars](https://img.shields.io/badge/Codewars-lazizbekxoljigitov-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/lazizbekxoljigitov-tech)
 ![Profile Views](https://komarev.com/ghpvc/?username=DEV-BR0&style=for-the-badge&color=6366F1&label=VIEWS)
 
 </div>
@@ -20,6 +21,7 @@ I'm **DEV BRO** — a Full-Stack Developer who turns ideas into fast, animated, 
 **🔧 What I build with:**
 - **Frontend:** React, Svelte / SvelteKit, Redux, HTML5
 - **Backend:** Node.js, REST API
+- **Tooling:** npm, Webpack, Vite, Markdown
 - **Motion:** GSAP, AOS
 - **Bots:** Telegram bots with node-telegram-bot-api
 - **AI-assisted development:** I also build full websites, apps, and other projects leveraging AI tools to move faster and ship higher-quality work
@@ -44,7 +46,7 @@ Open to collaborating on ambitious projects. Reach out on **[Telegram](https://t
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,svelte,redux,nodejs,tailwind,sass,git,github,vscode,figma&theme=dark" alt="core tech stack icons"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,svelte,redux,nodejs,npm,webpack,vite,md,tailwind,sass,git,github,figma&theme=dark" alt="core tech stack icons"/>
 
 <br/><br/>
 
