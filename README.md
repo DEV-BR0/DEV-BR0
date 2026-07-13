@@ -20,18 +20,19 @@
 I'm **DEV BRO** — a Full-Stack Developer who turns ideas into fast, animated, and reliable web applications, working across the entire stack from motion-rich interfaces to solid backend systems.
 
 **🔧 What I build with:**
-- **Frontend:** React, Next.js, Svelte / SvelteKit, Redux, HTML5
-- **Backend:** Node.js, REST API
+- **Languages:** HTML5, CSS3, JavaScript
+- **Frontend skills:** React, Next.js, Svelte / SvelteKit, Redux, Tailwind CSS, Sass
+- **Backend skills:** Node.js, REST API
 - **Tooling:** npm, Webpack, Vite, Markdown
 - **Motion:** GSAP, AOS
 - **Bots:** Telegram bots with node-telegram-bot-api
 - **AI-assisted development:** I also build full websites, apps, and other projects leveraging AI tools to move faster and ship higher-quality work
 
 **📚 What I'm leveling up right now:**
-- **Languages & frameworks:** TypeScript / TSX, Preact.js, Vue.js, Python (basics)
-- **Backend & desktop:** Express.js, Flask, Electron.js
-- **Mobile & bots:** React Native, telebot (pyTelegramBotAPI)
-- **Design & languages:** UI/UX Design, Korean (한국어)
+- **Languages:** TypeScript, Python (basics), Korean (한국어)
+- **Frontend skills:** Preact.js, Vue.js, React Native, UI/UX Design
+- **Backend skills:** Express.js, Flask, Electron.js
+- **Bots:** telebot (pyTelegramBotAPI)
 
 *Full breakdown with icons in the [Currently Learning](#-currently-learning) section below.*
 
@@ -61,14 +62,40 @@ Take a look at my work — live projects, case studies, and everything I've ship
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,svelte,redux,nodejs,npm,webpack,vite,md,tailwind,sass,git,github,figma&theme=dark" alt="core tech stack icons"/>
+**📝 Languages**
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="language icons"/>
+
+<br/><br/>
+
+**🎨 Frontend Skills**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,redux,tailwind,sass&theme=dark" alt="frontend skill icons"/>
 
 <br/><br/>
 
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 ![AOS](https://img.shields.io/badge/AOS-Animate%20On%20Scroll-6366F1?style=for-the-badge&logo=javascript&logoColor=white)
+
+<br/><br/>
+
+**⚙️ Backend Skills**
+
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="backend skill icons"/>
+
+<br/><br/>
+
 ![REST API](https://img.shields.io/badge/REST%20API-6366F1?style=for-the-badge&logo=fastapi&logoColor=white)
 ![node-telegram-bot-api](https://img.shields.io/badge/node--telegram--bot--api-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
+<br/><br/>
+
+**🧰 Tooling**
+
+<img src="https://skillicons.dev/icons?i=npm,webpack,vite,md,git,github,figma&theme=dark" alt="tooling icons"/>
+
+<br/><br/>
+
 ![AI-Powered Dev](https://img.shields.io/badge/AI--Powered%20Development-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
@@ -83,14 +110,34 @@ Take a look at my work — live projects, case studies, and everything I've ship
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=ts,preact,vuejs,electron,express,python,flask&theme=dark" alt="currently learning icons"/>
+**📝 Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,python&theme=dark" alt="languages currently learning icons"/>
+
+<br/><br/>
+
+![Korean](https://img.shields.io/badge/Korean-%ED%95%9C%EA%B5%AD%EC%96%B4-0F0F0F?style=for-the-badge&logo=googletranslate&logoColor=white)
+
+<br/><br/>
+
+**🎨 Frontend Skills**
+
+<img src="https://skillicons.dev/icons?i=preact,vuejs&theme=dark" alt="frontend skills currently learning icons"/>
 
 <br/><br/>
 
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![telebot](https://img.shields.io/badge/pyTelegramBotAPI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-FF61F6?style=for-the-badge&logo=figma&logoColor=white)
-![Korean](https://img.shields.io/badge/Korean-%ED%95%9C%EA%B5%AD%EC%96%B4-0F0F0F?style=for-the-badge&logo=googletranslate&logoColor=white)
+
+<br/><br/>
+
+**⚙️ Backend Skills**
+
+<img src="https://skillicons.dev/icons?i=electron,express,flask&theme=dark" alt="backend skills currently learning icons"/>
+
+<br/><br/>
+
+![telebot](https://img.shields.io/badge/pyTelegramBotAPI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
