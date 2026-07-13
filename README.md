@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:6366F1,100:0F0F0F&height=250&section=header&text=DEV%20BRO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descSize=20&descColor=A5A5A5" width="100%" alt="header banner"/>
 
@@ -178,7 +178,7 @@ jobs:
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:6366F1,100:0F0F0F&height=150&section=footer" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:6366F1,100:0F0F0F&height=150&section=footer](https://raw.githubusercontent.com/DEV-BR0/DEV-BR0/output/profile-night-rainbow.svg)" width="100%"/>
 
 <div align="center">
 <b>⭐ If you like my work, feel free to star my repositories.</b>
