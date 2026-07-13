@@ -140,10 +140,13 @@ This renders your contribution history as a rotating, animated 3D bar graph, gen
 
 Other available styles from the same Action — swap the filename above for any of these: `profile-north-pole.svg`, `profile-south-pole.svg`, `profile-night-view.svg`, `profile-day-green.svg`.
 
-If the image doesn't load yet, check the **Actions** tab on `DEV-BR0/DEV-BR0` to confirm the run completed and that new `.svg` files actually appeared in the `profile-3d-contrib/` folder on `main`.
+If the image doesn't load:
+1. Check the **Actions** tab on `DEV-BR0/DEV-BR0` and confirm the `3D Contribution Graph` workflow ran successfully (green checkmark, not red ❌).
+2. Confirm the `profile-3d-contrib/` folder actually appeared on `main` after the run — click into the repo's file browser to verify.
+3. If the workflow hasn't run yet, trigger it manually from **Actions → 3D Contribution Graph → Run workflow**.
+4. `raw.githubusercontent.com` caches files for a few minutes — if you just pushed, wait 5–10 minutes and hard-refresh before assuming it's broken.
 
 </details>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:6366F1,100:0F0F0F&height=150&section=footer" width="100%"/>
 
 <div align="center">
