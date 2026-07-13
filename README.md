@@ -124,11 +124,15 @@ If a card still doesn't render, wait a few minutes for the cache to refresh, or 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0F0F0F&height=3&width=100%25" width="100%"/>
 
-## 🌌 3D Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DEV-BR0/DEV-BR0/output/profile-night-rainbow.svg" alt="animated 3D contribution graph" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DEV-BR0/DEV-BR0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DEV-BR0/DEV-BR0/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/DEV-BR0/DEV-BR0/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -136,41 +140,41 @@ If a card still doesn't render, wait a few minutes for the cache to refresh, or 
 <summary><b>⚙️ One-time setup for this animation</b></summary>
 <br/>
 
-This renders your contribution history as a rotating, animated 3D bar graph (instead of a static snake).
-
-1. In your profile repo (`DEV-BR0/DEV-BR0`), create `.github/workflows/3d-contrib.yml`.
+1. In your profile repo (`DEV-BR0/DEV-BR0`), create `.github/workflows/snake.yml`.
 2. Paste the following:
 
 ```yaml
-name: 3D Contribution Graph
+name: Generate Snake Animation
 on:
   schedule:
-    - cron: "0 */6 * * *"
-  push:
-    branches: [ main ]
+    - cron: "0 0 * * *"
   workflow_dispatch:
-
+  push:
+    branches:
+      - main
+permissions:
+  contents: write
 jobs:
-  build:
-    permissions:
-      contents: write
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: DEV-BR0
-      - name: Commit & push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -f profile-3d-contrib/*.svg
-          git commit -m "Update 3D contribution graph" || echo "No changes"
-          git push origin output || (git checkout -B output && git push -u origin output)
 ```
 
-3. Commit — the Action will run automatically and generate several animated SVG styles (`profile-night-rainbow.svg`, `profile-north-pole.svg`, etc.) in the `output` branch. Swap the filename in the `<img>` src above for whichever style you like.
+3. Commit — the Action will run automatically and push the SVGs to the `output` branch, which this README already points to.
 
 </details>
 
