@@ -28,10 +28,12 @@ I'm **DEV BRO** — a Full-Stack Developer who turns ideas into fast, animated, 
 - **AI-assisted development:** I also build full websites, apps, and other projects leveraging AI tools to move faster and ship higher-quality work
 
 **📚 What I'm leveling up right now:**
-- **Languages & frameworks:** TypeScript / TSX, Preact.js, Vue.js, Python (basics)
-- **Backend & desktop:** Express.js, Flask, Electron.js
+- **Languages & frameworks:** TypeScript / TSX, Preact.js, Vue.js, Next.js, Svelte / SvelteKit, Redux, Python (basics)
+- **Backend & desktop:** Express.js, Flask, Electron.js, Node.js
+- **Tooling:** Webpack, Vite, Markdown
 - **Mobile & bots:** React Native, telebot (pyTelegramBotAPI)
 - **Design & languages:** UI/UX Design, Korean (한국어)
+- **Workflow:** AI-Powered Development
 
 *Full breakdown with icons in the [Currently Learning](#-currently-learning) section below.*
 
@@ -61,7 +63,7 @@ Take a look at my work — live projects, case studies, and everything I've ship
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,svelte,redux,nodejs,npm,webpack,vite,md,tailwind,sass,git,github,figma&theme=dark" alt="core tech stack icons"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,npm,tailwind,sass,git,github&theme=dark" alt="core tech stack icons"/>
 
 <br/><br/>
 
@@ -69,7 +71,6 @@ Take a look at my work — live projects, case studies, and everything I've ship
 ![AOS](https://img.shields.io/badge/AOS-Animate%20On%20Scroll-6366F1?style=for-the-badge&logo=javascript&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-6366F1?style=for-the-badge&logo=fastapi&logoColor=white)
 ![node-telegram-bot-api](https://img.shields.io/badge/node--telegram--bot--api-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![AI-Powered Dev](https://img.shields.io/badge/AI--Powered%20Development-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -83,7 +84,7 @@ Take a look at my work — live projects, case studies, and everything I've ship
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=ts,preact,vuejs,electron,express,python,flask&theme=dark" alt="currently learning icons"/>
+<img src="https://skillicons.dev/icons?i=ts,preact,vuejs,nextjs,svelte,redux,nodejs,electron,express,python,flask,webpack,vite,md,figma&theme=dark" alt="currently learning icons"/>
 
 <br/><br/>
 
@@ -91,6 +92,7 @@ Take a look at my work — live projects, case studies, and everything I've ship
 ![telebot](https://img.shields.io/badge/pyTelegramBotAPI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-FF61F6?style=for-the-badge&logo=figma&logoColor=white)
 ![Korean](https://img.shields.io/badge/Korean-%ED%95%9C%EA%B5%AD%EC%96%B4-0F0F0F?style=for-the-badge&logo=googletranslate&logoColor=white)
+![AI-Powered Dev](https://img.shields.io/badge/AI--Powered%20Development-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
