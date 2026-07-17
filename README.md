@@ -20,7 +20,7 @@
 I'm **DEV BRO** — a Full-Stack Developer who turns ideas into fast, animated, and reliable web applications, working across the entire stack from motion-rich interfaces to solid backend systems.
 
 **🔧 What I build with:**
-- **Frontend:** React, Next.js, Svelte / SvelteKit, Preact.js, Vue.js, Redux, HTML5
+- **Frontend:** React, Preact.js, Next.js, Svelte / SvelteKit, Vue.js, Redux, HTML5
 - **Backend:** Node.js, REST API
 - **Desktop:** Electron.js
 - **Tooling:** npm, Webpack, Vite, Markdown, Figma
@@ -29,7 +29,7 @@ I'm **DEV BRO** — a Full-Stack Developer who turns ideas into fast, animated, 
 - **AI-assisted development:** I also build full websites, apps, and other projects leveraging AI tools to move faster and ship higher-quality work
 
 **📚 What I'm leveling up right now:**
-- **Languages & frameworks:** TypeScript / TSX, Redux, Python (basics)
+- **Languages & frameworks:** TypeScript / TSX, Python (basics)
 - **Backend:** Express.js, Flask
 - **Mobile & bots:** React Native, telebot (pyTelegramBotAPI)
 - **Design & languages:** UI/UX Design, Korean (한국어)
@@ -63,7 +63,7 @@ Take a look at my work — live projects, case studies, and everything I've ship
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,svelte,preact,vuejs,nodejs,electron,npm,webpack,vite,md,figma,tailwind,sass,git,github&theme=dark" alt="core tech stack icons"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,preact,nextjs,svelte,vuejs,redux,nodejs,electron,npm,webpack,vite,md,figma,tailwind,sass,git,github&theme=dark" alt="core tech stack icons"/>
 
 <br/><br/>
 
@@ -84,7 +84,7 @@ Take a look at my work — live projects, case studies, and everything I've ship
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=ts,redux,express,python,flask&theme=dark" alt="currently learning icons"/>
+<img src="https://skillicons.dev/icons?i=ts,express,python,flask&theme=dark" alt="currently learning icons"/>
 
 <br/><br/>
 
