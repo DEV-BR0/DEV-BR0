@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dev--bro--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-bro-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-bro-portfolio.vercel.app/)
 [![Telegram](https://img.shields.io/badge/Telegram-DEV%20BRO-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DEV_BR0)
 [![Codewars](https://img.shields.io/badge/Codewars-DEV--BR0-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/DEV-BR0)
 ![Profile Views](https://komarev.com/ghpvc/?username=DEV-BR0&style=for-the-badge&color=6366F1&label=VIEWS)
