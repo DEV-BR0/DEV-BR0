@@ -49,11 +49,13 @@ Open to collaborating on ambitious projects. Reach out on **[Telegram](https://t
 
 <div align="center">
 
-### 🔗 [dev-bro-portfolio.vercel.app](https://dev-bro-portfolio.vercel.app/)
+<a href="https://dev-bro-portfolio.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6366F1,100:8B5CF6&height=120&section=header&text=🚀%20View%20My%20Portfolio&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="70%" alt="portfolio banner"/>
+</a>
 
 Take a look at my work — live projects, case studies, and everything I've shipped so far.
 
-[![View Portfolio](https://img.shields.io/badge/🚀%20View%20Live%20Portfolio-6366F1?style=for-the-badge&logoColor=white)](https://dev-bro-portfolio.vercel.app/)
+<sub>🔗 <a href="https://dev-bro-portfolio.vercel.app/">dev-bro-portfolio.vercel.app</a></sub>
 
 </div>
 
