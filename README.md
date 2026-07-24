@@ -20,22 +20,16 @@
 I'm **DEV BRO** — a Full-Stack Developer who turns ideas into fast, animated, and reliable web applications, working across the entire stack from motion-rich interfaces to solid backend systems.
 
 **🔧 What I build with:**
-- **Frontend:** React, Preact.js, Next.js, Svelte / SvelteKit, Vue.js, Redux, HTML5
-- **Backend:** Node.js, REST API
-- **Desktop:** Electron.js
-- **Tooling:** npm, Webpack, Vite, Markdown, Figma
-- **Motion:** GSAP, AOS
-- **Bots:** Telegram bots with node-telegram-bot-api
+- **Markup & Language:** HTML5, CSS3, JavaScript
+- **Frontend:** React, Preact.js, Next.js
+- **Routing:** React Router
+- **State Management:** Redux Toolkit
+- **Styling:** TailwindCSS
+- **HTTP & Forms:** Axios, React Hook Form
+- **UI Utilities:** Swiper, Sonner
 - **AI-assisted development:** I also build full websites, apps, and other projects leveraging AI tools to move faster and ship higher-quality work
 
-**📚 What I'm leveling up right now:**
-- **Languages & frameworks:** TypeScript / TSX, Python (basics)
-- **Backend:** Express.js, Flask
-- **Mobile & bots:** React Native, telebot (pyTelegramBotAPI)
-- **Design & languages:** UI/UX Design, Korean (한국어)
-- **Workflow:** AI-Powered Development
-
-*Full breakdown with icons in the [Currently Learning](#-currently-learning) section below.*
+*Full breakdown with icons in the [Tech Stack](#️-tech-stack) section below.*
 
 ```
 > npm run learn --forever
